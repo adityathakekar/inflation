@@ -1,0 +1,2 @@
+# inflation
+inflation dashboard
